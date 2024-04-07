@@ -1,4 +1,4 @@
-# Naver-News-Scraping
+# Naver-News-Scraping (python version 3.9.13)
 ## Overview
 ### 1. '네이버뉴스' url 추출을 위해 selenium 활용
   - 검색하고자 하는 키워드 및 기간 지정 가능
